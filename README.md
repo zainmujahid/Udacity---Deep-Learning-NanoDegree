@@ -1,2 +1,15 @@
-# Udacity---Deep-Learning-NanoDegree
-This repository contains solutions to the projects I had to do during my NanoDegree
+# Deep Learning Nanodegree Foundation
+This repository contains solutions to my 5 projects related to Udacity's [Deep Learning Nanodegree Foundation](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) program. The notebooks lead you through implementing models such as convolutional networks, recurrent networks, and GANs.
+
+## Honor Code:
+I am leaving this open source on the honor system. Please do not plagarize my code! You will only learn by investing the time to work through the problems yourself!
+
+## Projects
+
+### 1. Your First Neural Network
+
+![image info](./01%20-%20Predicting%20Bike-Sharing%20Patterns/Images/cover.png)
+
+A (simple) neural network from scratch to make predictions of bike-sharing usage.
+- [Project Files](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/tree/master/01%20-%20Predicting%20Bike-Sharing%20Patterns/Your_first_neural_network)
+- [iPython Notebook](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/01%20-%20Predicting%20Bike-Sharing%20Patterns/Your_first_neural_network/Your_first_neural_network.ipynb)
