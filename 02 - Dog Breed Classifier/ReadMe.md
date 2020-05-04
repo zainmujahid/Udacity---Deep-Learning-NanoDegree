@@ -1,5 +1,4 @@
 # Dog Breed Classifier
-This Repository stores my solution to the _"Dog Breed Classifier"_ problem presented as the second project in the Deep Learning Nano Degree by Udacity.
 
 ### Overview
 For this project I was given two folders of images. One representing humans and one representing dogs. The folder representing dogs was categorized according to breed, with 64 images of each dog breed. The folder representing dogs was also seperated into a training, validation and testing set. Each dog breed in training folder was represented by approximatly 50 images.  
@@ -26,20 +25,15 @@ Test Loss: 1.974736
 Test Accuracy: 70% (587/836)
 ```
 
-All implementation for the above solutions can be found [here](https://github.com/MrDaubinet/Dog-Breed-Classifier/blob/master/dog_app.ipynb).
+All implementation for the above solutions can be found [here](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/02%20-%20Dog%20Breed%20Classifier/dog_app.ipynb).
 
 
 ### Conclusion
 This project introduced me to what a Convolutional Nerual Network is, how its architecture is made with filters, pooling and dropout layers and the benefits that can be gained when taking advantage of transfer learning.
 <br><br>
-To view the full project [click here](https://nbviewer.jupyter.org/github/MrDaubinet/Dog-Breed-Classifier/blob/master/dog_app.ipynb)
+To view the full project [click here](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/02%20-%20Dog%20Breed%20Classifier/dog_app.ipynb)
 
-# Get started
-```
-git clone https://github.com/MrDaubinet/Dog-Breed-Classifier
-cd Dog-Breed-Classifier
-jupyter notebook
-```
+
 # Requirements
 Jupyter notebook must be installed.
 Python must be installed. The following python modules must be installed.
