@@ -8,3 +8,7 @@ For this project I was given a 3.41 MB file of Scripts taken from the Seinfeld s
 Before training the model, the dataset must be prepared by removing tokens and identifying unique words. With batches and sequence lengths specified, dataloaders can be created.
 
 ![](images/Dataset.png)
+
+The Goal of the project is to train a Recurrent Neural Network on the scripts and use the trained model to generate new scripts.
+
+![](images/Results.png)
