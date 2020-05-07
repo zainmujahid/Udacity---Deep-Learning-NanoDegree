@@ -21,3 +21,8 @@ This Model achieved a training loss of 3.43, with the following hyperparameters:
 * <b>embedding_dim</b>: This value was tested at 300, then 400 and 200. 
 * <b>hidden_dim</b>: This value was tested at 256, then 512 and 128. 
 * <b>n_layers</b>: this value was statically set to 2. 
+
+### Conclusion
+This project introduced me to many aspects of Recurrent Neural Networks. By covering the foundations of recurrent, LSTM and GRU layers, a firm understanding of the architecture was gained. Furthing this, the project touched on word embedding layers and their usefulness was soon realised.
+<br><br>
+To view the full project [click here](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/03%20-%20TV%20Script%20Generation/dlnd_tv_script_generation.ipynb)
