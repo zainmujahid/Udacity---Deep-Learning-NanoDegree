@@ -26,3 +26,24 @@ This Model achieved a training loss of 3.43, with the following hyperparameters:
 This project introduced me to many aspects of Recurrent Neural Networks. By covering the foundations of recurrent, LSTM and GRU layers, a firm understanding of the architecture was gained. Furthing this, the project touched on word embedding layers and their usefulness was soon realised.
 <br><br>
 To view the full project [click here](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/03%20-%20TV%20Script%20Generation/dlnd_tv_script_generation.ipynb)
+
+# Requirements
+Jupyter notebook must be installed.
+Python must be installed. The following python modules must be installed.
+```
+opencv-python
+jupyter
+matplotlib
+pandas
+numpy
+pillow
+scipy
+tqdm
+scikit-learn
+scikit-image
+seaborn
+h5py
+ipykernel
+bokeh
+pickleshare
+```
