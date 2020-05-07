@@ -28,6 +28,8 @@ A CNN built from scrach to classify different breeds of dogs.
 
 ![](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/03%20-%20TV%20Script%20Generation/images/p3.PNG)
 
+Use deep learning to generate new scripts for your favorite TV show.
+
 ## Dependencies
 
 Each directory has a `requirements.txt` describing the minimal dependencies required to run the notebooks in that directory.
