@@ -30,6 +30,10 @@ A CNN built from scrach to classify different breeds of dogs.
 
 Use deep learning to generate new scripts for your favorite TV show.
 
+- [Project Files](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/tree/master/03%20-%20TV%20Script%20Generation)
+- [iPython Notebook]()
+- [ReadMe]()
+
 ## Dependencies
 
 Each directory has a `requirements.txt` describing the minimal dependencies required to run the notebooks in that directory.
