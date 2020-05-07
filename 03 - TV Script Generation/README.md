@@ -6,3 +6,5 @@ For this project I was given a 3.41 MB file of Scripts taken from the Seinfeld s
 
 ### Purpose and Results
 Before training the model, the dataset must be prepared by removing tokens and identifying unique words. With batches and sequence lengths specified, dataloaders can be created.
+
+![](images/Dataset.png)
