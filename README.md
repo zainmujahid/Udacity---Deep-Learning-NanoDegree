@@ -26,6 +26,8 @@ A CNN built from scrach to classify different breeds of dogs.
 
 ### 3. TV Script Generation
 
+![](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/03%20-%20TV%20Script%20Generation/images/p3.PNG)
+
 ## Dependencies
 
 Each directory has a `requirements.txt` describing the minimal dependencies required to run the notebooks in that directory.
