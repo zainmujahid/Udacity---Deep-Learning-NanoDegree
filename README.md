@@ -32,7 +32,7 @@ Use deep learning to generate new scripts for your favorite TV show.
 
 - [Project Files](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/tree/master/03%20-%20TV%20Script%20Generation)
 - [iPython Notebook](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/03%20-%20TV%20Script%20Generation/dlnd_tv_script_generation.ipynb)
-- [ReadMe]()
+- [ReadMe](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/03%20-%20TV%20Script%20Generation/README.md)
 
 ## Dependencies
 
