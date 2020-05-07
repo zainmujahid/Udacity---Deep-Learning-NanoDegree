@@ -24,6 +24,8 @@ A CNN built from scrach to classify different breeds of dogs.
 - [iPython Notebook](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/02%20-%20Dog%20Breed%20Classifier/dog_app.ipynb)
 - [ReadMe](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/02%20-%20Dog%20Breed%20Classifier/ReadMe.md)
 
+### 3. TV Script Generation
+
 ## Dependencies
 
 Each directory has a `requirements.txt` describing the minimal dependencies required to run the notebooks in that directory.
