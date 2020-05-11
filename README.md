@@ -18,7 +18,7 @@ A Deep Neural Network from scratch to make predictions of bike-sharing usage.
 
 ![](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/01%20-%20Predicting%20Bike-Sharing%20Patterns/Images/p2.PNG)
 
-A CNN built from scrach to classify different breeds of dogs.
+A Convolutional Neural Network (CNN) built from scrach to classify different breeds of dogs.
 
 - [Project Files](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/tree/master/02%20-%20Dog%20Breed%20Classifier)
 - [iPython Notebook](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/02%20-%20Dog%20Breed%20Classifier/dog_app.ipynb)
