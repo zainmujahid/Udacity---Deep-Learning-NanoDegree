@@ -23,3 +23,8 @@ The achieved loss for the trained generator and descriminator can be found below
 Some of the images this generator created can be seen below:
 
 ![](images/image4.png)
+
+## Conclusion
+This project introduced me to the concepts of general adverserial nerual networks. It broughtt me into the world of fake celebrity generation and the capabilities of this technology. Furthering this project I learnt about pix2pix and Cycle GANS which can take images from one domain (such as a real photo) and convert them to another domain (such as a painting). This can be achieved with supervised (paired), fully unsupervised or semi-supervised approach. By adding the cyucling consistency loss, the resulting image can beconverted back to its origional form aswell.
+
+To view the full project click [here](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/04%20-%20Generate%20Faces/dlnd_face_generation.ipynb)
