@@ -38,7 +38,7 @@ A Deep RNN to generate new scripts for your favorite TV show.
 
 ![](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/04%20-%20Generate%20Faces/images/image0.PNG)
 
-A General Adverserial Neural Network to generate new "fake" celebrity faces.
+A Generative Adverserial Neural (GAN) to generate new "fake" celebrity faces.
 
 ## Dependencies
 
