@@ -17,3 +17,5 @@ The Below process depicts the GAN training process of on the SVHN dataset.
 
 ## Results 
 The achieved loss for the trained generator and descriminator can be found below:
+
+![](images/image3.png)
