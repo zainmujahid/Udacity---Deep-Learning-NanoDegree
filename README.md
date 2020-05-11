@@ -40,6 +40,8 @@ A Deep RNN to generate new scripts for your favorite TV show.
 
 A Generative Adverserial Neural (GAN) to generate new "fake" celebrity faces.
 
+- [Project Files](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/tree/master/04%20-%20Generate%20Faces)
+
 ## Dependencies
 
 Each directory has a `requirements.txt` describing the minimal dependencies required to run the notebooks in that directory.
