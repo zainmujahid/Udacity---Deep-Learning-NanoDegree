@@ -34,6 +34,12 @@ A Deep RNN to generate new scripts for your favorite TV show.
 - [iPython Notebook](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/03%20-%20TV%20Script%20Generation/dlnd_tv_script_generation.ipynb)
 - [ReadMe](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/03%20-%20TV%20Script%20Generation/README.md)
 
+### 4. Face Generation
+
+![](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/04%20-%20Generate%20Faces/images/image0.PNG)
+
+A General Adverserial Neural Network to generate new "fake" celebrity faces.
+
 ## Dependencies
 
 Each directory has a `requirements.txt` describing the minimal dependencies required to run the notebooks in that directory.
