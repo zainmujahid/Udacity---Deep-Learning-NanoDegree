@@ -42,6 +42,7 @@ A Generative Adverserial Neural (GAN) to generate new "fake" celebrity faces.
 
 - [Project Files](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/tree/master/04%20-%20Generate%20Faces)
 - [iPython Notebook](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/04%20-%20Generate%20Faces/dlnd_face_generation.ipynb)
+- [ReadMe](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/04%20-%20Generate%20Faces/README.md)
 
 ## Dependencies
 
