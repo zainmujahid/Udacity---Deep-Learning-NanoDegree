@@ -11,3 +11,5 @@ For this project I was given a dataset of bike sharing patterns, which can be fo
 * Bike Number – Includes ID number of bike used for the trip
 * Member Type – Indicates whether user was a "registered" member or a "casual" rider
 
+## Purpose
+The goal of this project was to create a prediction model that took in the above attributes as inputs and predicted the number of bikes hired as an output.
