@@ -24,3 +24,6 @@ The goal of this project was to create a prediction model that took in the above
 3. Lastly, the Neural Network is initialized and trained. Its performance for training and validation loss can be seen in the image below.
 
 ![](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/01%20-%20Predicting%20Bike-Sharing%20Patterns/Images/loss.png)
+
+## Results
+Finally, the Neural Network is run against unseen testing data with its accuracy shown in the image below.
