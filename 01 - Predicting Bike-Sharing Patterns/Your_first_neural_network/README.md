@@ -27,3 +27,5 @@ The goal of this project was to create a prediction model that took in the above
 
 ## Results
 Finally, the Neural Network is run against unseen testing data with its accuracy shown in the image below.
+
+![](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/01%20-%20Predicting%20Bike-Sharing%20Patterns/Images/test.png)
