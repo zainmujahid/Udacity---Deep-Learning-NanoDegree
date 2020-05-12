@@ -14,4 +14,4 @@ For this project I was given a dataset of bike sharing patterns, which can be fo
 ## Purpose
 The goal of this project was to create a prediction model that took in the above attributes as inputs and predicted the number of bikes hired as an output.
 
-![](./Images/neural_network.png)
+![](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/01%20-%20Predicting%20Bike-Sharing%20Patterns/Images/neural_network.png)
