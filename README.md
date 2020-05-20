@@ -44,6 +44,8 @@ A Generative Adverserial Neural (GAN) to generate new "fake" celebrity faces.
 - [iPython Notebook](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/04%20-%20Generate%20Faces/dlnd_face_generation.ipynb)
 - [ReadMe](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/04%20-%20Generate%20Faces/README.md)
 
+### 5. Sentiment Analysis Model
+
 ## Dependencies
 
 Each directory has a `requirements.txt` describing the minimal dependencies required to run the notebooks in that directory.
