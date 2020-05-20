@@ -46,6 +46,8 @@ A Generative Adverserial Neural (GAN) to generate new "fake" celebrity faces.
 
 ### 5. Sentiment Analysis Model
 
+![](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/05%20-%20Sentiment%20Analysis%20Model/resources/cover.PNG)
+
 ## Dependencies
 
 Each directory has a `requirements.txt` describing the minimal dependencies required to run the notebooks in that directory.
