@@ -16,3 +16,8 @@ Following are 2 results of this project:
 ![](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/05%20-%20Sentiment%20Analysis%20Model/resources/positive.PNG)
 - NEGATIVE <br>
 ![](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/05%20-%20Sentiment%20Analysis%20Model/resources/negative.PNG)
+
+## Notes
+I'm letting the endpoint to run for sometime so you guys can try this project out but I can not let it to run infinitely. To implement this project for yourself you will need to create your own endpoint and generate the API URL and replace it in the ```/website/index.html``` <br>
+
+To view the full project files click [here](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/tree/master/05%20-%20Sentiment%20Analysis%20Model)
