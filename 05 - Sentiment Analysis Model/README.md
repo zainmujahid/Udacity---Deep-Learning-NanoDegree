@@ -5,3 +5,7 @@ In this project I constructed a Recurrent Neural Network for the purpose of dete
 
 ## Purpose
 The goal of this project was to deploy a RNN based model over AWS SageMaker using public API Gateway.
+
+## Working
+The web app takes the user-provided review and predicts if the entered review was POSITIVE or NEGATIVE. The working of the project is shown below: 
+![](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/05%20-%20Sentiment%20Analysis%20Model/resources/working.gif)
