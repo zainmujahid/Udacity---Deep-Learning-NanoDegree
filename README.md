@@ -52,6 +52,7 @@ A Deployed Recursive Neural Network which predicts the sentiments of the user-pr
 
 - [Project Files](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/tree/master/05%20-%20Sentiment%20Analysis%20Model)
 - [iPython Notebook](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/05%20-%20Sentiment%20Analysis%20Model/SageMaker%20Project.ipynb)
+- [ReadMe](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/blob/master/05%20-%20Sentiment%20Analysis%20Model/README.md)
 
 ## Dependencies
 
