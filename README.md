@@ -50,6 +50,8 @@ A Generative Adverserial Neural (GAN) to generate new "fake" celebrity faces.
 
 A Deployed Recursive Neural Network which predicts the sentiments of the user-provided reviews.
 
+- [Project Files](https://github.com/zainmujahid/Udacity---Deep-Learning-NanoDegree/tree/master/05%20-%20Sentiment%20Analysis%20Model)
+
 ## Dependencies
 
 Each directory has a `requirements.txt` describing the minimal dependencies required to run the notebooks in that directory.
